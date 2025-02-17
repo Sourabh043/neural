@@ -1,2 +1,2 @@
 # my first README FILE
-# How to use 
+ How to use 
